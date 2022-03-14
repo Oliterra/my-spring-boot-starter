@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "mood",
+      "type": "com.anecdotestarter.properties.AnecdoteProperties",
+      "sourceType": "com.anecdotestarter.properties.AnecdoteProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mood.good",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.anecdotestarter.properties.AnecdoteProperties"
+    }
+  ],
+  "hints": []
+}

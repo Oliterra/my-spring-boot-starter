@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.anecdotestarter.config.AnecdoteConfig
+org.springframework.context.ApplicationContextInitializer=com.anecdotestarter.initializer.ProfileCheckApplicationContextInitializer
+org.springframework.boot.env.EnvironmentPostProcessor=com.anecdotestarter.postprocessor.ProfileDetectorEnvironmentPostProcessor
